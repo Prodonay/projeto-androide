@@ -1,2 +1,0 @@
-# projeto-androide
- ProjetoAndroideCriadonoCapitulo17doCursodeHtmleCss
